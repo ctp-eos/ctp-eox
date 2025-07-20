@@ -1,4 +1,4 @@
-# 🌌 CTP-EOX Linux — The CTP Tesseract Reimagined
+## 🌌 CTP-EOX Linux — The CTP Tesseract Reimagined
 
 **CTP-EOX** is a rebranded fork and interpretation of [Mabox Linux](https://maboxlinux.org) — a minimalist, Arch-based distro focused on extremely low CPU overhead and fast responsiveness.
 

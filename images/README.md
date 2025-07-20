@@ -1,6 +1,6 @@
 # Images Folder
 
-This folder contains all image assets used in the project.
+This folder contains all image assets used in the CTP-EOX project.
 
 ## Contents
 
